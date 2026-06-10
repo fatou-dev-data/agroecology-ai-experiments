@@ -2,9 +2,15 @@
 
 ## À propos
 
-Ce dépôt présente mes premières explorations autour de l'intelligence artificielle appliquée à l'agroécologie, aux savoirs locaux et aux territoires.
+## Pourquoi ce projet ?
 
-L'objectif est de comprendre comment les systèmes d'IA générative et les architectures RAG (Retrieval-Augmented Generation) peuvent contribuer à améliorer l'accès à l'information agricole tout en valorisant les connaissances locales.
+Ce projet explore l'utilisation des architectures RAG
+(Retrieval-Augmented Generation) pour valoriser les
+connaissances agroécologiques et les savoirs locaux.
+
+L'objectif est d'étudier comment les systèmes d'IA
+peuvent fournir des réponses plus fiables en s'appuyant
+sur une base documentaire vérifiable.
 
 ## Objectifs
 
